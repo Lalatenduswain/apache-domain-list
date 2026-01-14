@@ -77,7 +77,7 @@ The script assumes Apache enabled site configurations are located at:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Lalatenduswain/apache-domain-list.sh
+git clone https://github.com/Lalatenduswain/apache-domain-list
 ````
 
 ```bash
@@ -193,7 +193,7 @@ Your support helps maintain and improve open-source contributions.
 Found a bug or have a feature request?
 
 📌 Submit an issue here:
-[https://github.com/Lalatenduswain/apache-domain-list.sh/issues](https://github.com/Lalatenduswain/apache-domain-list.sh/issues)
+[https://github.com/Lalatenduswain/apache-domain-list/issues](https://github.com/Lalatenduswain/apache-domain-list/issues)
 
 ---
 

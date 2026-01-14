@@ -1,11 +1,3 @@
-**`apache-domain-list.sh`**
-
-Repository reference used everywhere:
-`https://github.com/Lalatenduswain/apache-domain-list.sh`
-
----
-
-
 # Apache Domain to Directory Mapping Script 🖥️🌐
 
 A simple yet powerful Bash utility to **audit Apache virtual hosts** by extracting configured **domains (ServerName / ServerAlias)** and their corresponding **DocumentRoot directories** from enabled Apache site configurations.
